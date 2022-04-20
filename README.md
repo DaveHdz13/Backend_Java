@@ -21,4 +21,4 @@ The result should be like this for every one of the examples:
 
 ![HermioneResult](/screenshots/Hermione.png)
 
-> See all result screenshots [here](/screenshots/Results/)
+> See all result screenshots [-- here! --](/screenshots/Results/)
