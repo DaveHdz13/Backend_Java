@@ -19,6 +19,29 @@ We are using **Setters and Getters** for some examples and the **Constructor** f
 
 The result should be like this for every one of the examples:
 
-![HermioneResult](/screenshots/Hermione.png)
+![HermioneResult](/screenshots/Results/Hermione.png)
 
 > See all result screenshots [-- here! --](/screenshots/Results/)
+
+## Inheritance and Polimorfism
+This next concepts are based on a **singular character** who can do **different tasks** and have **different roles**.
+
+**Octocat is our character!**
+
+And we took 6 different versions of him from the **[Octodex](https://octodex.github.com)**.
+
+Octocat as:
+
+| Octonaut | Private Investocat | Boxertocat |
+| :---: | :---: | :---: |
+| ![Octonaut](/screenshots/OctocatScreenshots/octonaut.jpg) | ![PrivateInvestocat](/screenshots/OctocatScreenshots/privateinvestocat.jpg) | ![Boxertocat](/screenshots/OctocatScreenshots/boxertocat_octodex.jpg) 
+
+| Filmotocat | Steroidtocat | Topguntocat |
+| :---: | :---: | :---: |
+| ![Filmotocat](/screenshots/OctocatScreenshots/filmtocat.png) | ![Steroidtocat](/screenshots/OctocatScreenshots/steroidtocat.png) | ![Topguntocat](/screenshots/OctocatScreenshots/topguntocat.png) |
+
+> All outputs should look like this:
+![OctonautOutput](/screenshots/OctocatScreenshots/Results/Octocat%2001.png)
+The **Role** is where we specified what actions does each one has. ([All Outputs Here!](/screenshots/OctocatScreenshots/Results/))
+
+## Interfaces
