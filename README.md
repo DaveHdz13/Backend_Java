@@ -39,7 +39,8 @@ Octocat as:
 | :---: | :---: | :---: |
 | ![Filmotocat](/screenshots/OctocatScreenshots/filmtocat.png) | ![Steroidtocat](/screenshots/OctocatScreenshots/steroidtocat.png) | ![Topguntocat](/screenshots/OctocatScreenshots/topguntocat.png) |
 
-> All outputs look like this:
+Outputs look like this:
+
 ![OctonautOutput](/screenshots/OctocatScreenshots/Results/Octocat%2001.png)
 
 The **Role** is where we specified what actions does each one has. (**[All Outputs Here!](/screenshots/OctocatScreenshots/Results/)**)
