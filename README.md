@@ -57,7 +57,7 @@ In the next **Diagram** I tried to make the basic moves and for the other interf
 
 > Full diagram: **" [With great power comes great responsability!](https://miro.com/app/board/uXjVO7cPwWI=/?share_link_id=327805446177) "**.
 
-![Diagram](/screenshots/SpiderVersions/Spider%20Diagram.png)
+![Diagram](/screenshots/SpiderVersions/SpiderDiagram.png)
 
 I took 3 different Spiderman:
 
